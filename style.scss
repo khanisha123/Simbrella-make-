@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+a{
+    text-decoration: none;
+}
+.title{
+    
+    margin-left: 203px;
+    margin-top: 30px;
+
+}
+.border{
+    border: 1px solid #DCDCDC;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 35px;
+    transition: transform .2s;
+
+}
+.part{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+        
+}
+.textheader{
+    color: #000000;
+    font-size: 20px;
+}
+.text{
+
+    color: #A9A9A9;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+img{
+    padding-top: 40px;
+}
+.title span{
+    font-size: 32px;
+    color: #2D3192;
+    margin-top: 30px;
+    
+}
+.border:hover{
+  transform: scale(1.1);
+}
+.tech-PoweredSide .Tech-Powered {
+    max-width: 520px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 200px;
+    
+  }
+.tech-PoweredSide{
+    position: relative;
+}
+.scroolImage{
+    background-attachment: fixed;
+}
+.scroolImage img{
+    height: 730px;
+    width: 100%;
+    position: absolute;
+    
+}
+.rightside{
+    position: relative;
+}
+
+.rightside .textRightSide{
+    font-size: 25px;
+    list-style: none;
+    position: absolute;
+    margin-left: 53%;
+    margin-top: 10%;
+    display: inline;
+    color: white;
+}
+
+.rightside .textRightSide .line {
+    border: 1px solid white;
+    margin-top: 20px;
+    border-width: thin;
+    
+  }
+  .rightside .backgroundRightSide{
+
+    background-color: blue;
+    height: 690px;
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 50%;
+    position: absolute;
+    position: absolute;
+    opacity: 0.3;
+}
+.header  .distance{
+
+    margin-left: 90%;
+    
+
+}
+
+
+
+
+
+
+
+
